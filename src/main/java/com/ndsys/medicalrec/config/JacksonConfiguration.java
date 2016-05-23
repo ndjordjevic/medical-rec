@@ -1,7 +1,6 @@
 package com.ndsys.medicalrec.config;
 
 import com.ndsys.medicalrec.domain.util.*;
-
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import java.time.*;
